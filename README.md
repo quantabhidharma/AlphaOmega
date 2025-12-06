@@ -1,4 +1,4 @@
-# quantum-abhidharma: Lattice QCD Engine
+#  A|Ω⟩ – Quantum Abhidharma Lattice QCD Engine
 
 [![License](https://img.shields.io/badge/License-MIT-green)]()
 [![Python](https://img.shields.io/badge/Python-3.9+-blue)]()
