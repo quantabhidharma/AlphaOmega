@@ -84,7 +84,7 @@ Raw `.npy` arrays and high-resolution visualizations will be archived on the **O
 
 If you use this code or data, please cite:
 
-> Yiannopoulos, A. (2025). *A|Ω⟩: Quantum Abhidharma Lattice Engine*. Open Science Framework. DOI: 10.17605/OSF.IO/XXXXX (pending)
+> Yiannopoulos, A. (2025). *A|Ω⟩: Quantum Abhidharma Lattice Engine*. Open Science Framework. DOI: 10.17605/OSF.IO/9AS78
 
 For theoretical background, see manuscripts in `papers/`.
 
