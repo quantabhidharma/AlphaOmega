@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/badge/License-MIT-green)]()
 [![Python](https://img.shields.io/badge/Python-3.9+-blue)]()
-[![Status](https://img.shields.io/badge/Status-Experimental_Validation-orange)]()
+[![DOI](https://img.shields.io/badge/DOI-Pending_OSF_Registration-blue)](https://osf.io/)
 
 ## Overview
 
