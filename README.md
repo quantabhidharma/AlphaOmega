@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/badge/License-MIT-green)](https://opensource.org/licenses/MIT)
 [![Julia](https://img.shields.io/badge/Julia-1.10+-9558B2?logo=julia&logoColor=white)](https://julialang.org)
-[![Status](https://img.shields.io/badge/Status-Operational-success)](https://github.com/quantabhidharma/AlphaOmega)
+[![Status](https://img.shields.io/badge/Status-v0.2.0-success)](https://github.com/quantabhidharma/AlphaOmega)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17844109.svg)](https://doi.org/10.5281/zenodo.17844109)
 
 ## Overview
