@@ -1,4 +1,4 @@
-# A|Ω⟩: The Lattice Vacuum Engine
+# A|Ω⟩ – Lattice Vacuum Engine
 
 [![License](https://img.shields.io/badge/License-MIT-green)](https://opensource.org/licenses/MIT)
 [![Julia](https://img.shields.io/badge/Julia-1.10+-9558B2?logo=julia&logoColor=white)](https://julialang.org)
@@ -7,7 +7,7 @@
 
 ## Overview
 
-**The Alpha|Omega (A|Ω⟩) Project** is a specialized Lattice Gauge Theory framework designed to probe the non-perturbative structure of the Quantum Vacuum.
+**The A|Ω⟩ Research Program** is a specialized Lattice Gauge Theory framework designed to probe the non-perturbative structure of the Quantum Vacuum.
 
 Unlike standard lattice QCD codes (Grid, Chroma) which optimize for brute-force bulk thermodynamics, this engine is architected for **Twisted Vacuum Tomography**. It leverages **Twisted Eguchi-Kawai (TEK) Reduction** and $Z_N$ boundary conditions to simulate infinite-volume confinement physics on compact, topologically non-trivial manifolds ("Time Cubes").
 
