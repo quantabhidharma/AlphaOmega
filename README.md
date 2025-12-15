@@ -29,35 +29,3 @@ The simulation kernel isolates the mechanism of color confinement via three geom
 | **Architecture** | Julia 1.10+ | Just-In-Time (JIT) compiled for Apple Silicon (M-Series) |
 | **Precision** | `Float64` / `ComplexF64` | Double-precision arithmetic for unitary stability |
 | **Criticality** | $\beta_c \approx 6.0$ | Scaling window verification active |
-
-## 4. Repository Structure
-
-The Institute archive adheres to a rigid hierarchical structure to separate computational kernels from archival documentation.
-
-```text
-AlphaOmega/
-├── src/                          # LEVEL 1: Source Code
-│   ├── Engine/                   # LEVEL 2: Physics Core
-│   │   ├── WilsonAction.jl       # LEVEL 3: Lattice Discretization
-│   │   ├── MonteCarlo.jl         # LEVEL 3: Metropolis Update Kernels
-│   │   └── TwistFactors.jl       # LEVEL 3: Z3 Boundary Conditions
-│   │
-│   └── Diagnostics/              # LEVEL 2: Measurement Suite
-│       ├── PolyakovLoop.jl       # LEVEL 3: Confinement Order Parameter
-│       └── TextureMap.jl         # LEVEL 3: Vacuum Tomography
-│
-├── docs/                         # LEVEL 1: Documentation & Portal
-│   ├── formalism/                # LEVEL 2: LaTeX Source
-│   │   └── te_reduction.tex      # LEVEL 3: Theoretical Basis
-│   │
-│   ├── figures/                  # LEVEL 2: Visual Assets
-│   │   ├── ao_logo.jpg           # LEVEL 3: Institute Identity
-│   │   └── vacuum_density/       # LEVEL 3: Generated Plots
-│   │       └── hyst_loop.png     # LEVEL 4: Criticality Data
-│   │
-│   └── index.html                # LEVEL 2: Public Portal Entry
-│
-├── data/                         # LEVEL 1: Binary Data (Untracked)
-│   └── .gitignore                # LEVEL 2: Exclusion Rules
-│
-└── README.md                     # LEVEL 1: Project Overview
