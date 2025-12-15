@@ -40,3 +40,12 @@ build/
 .vscode/     # Ignore local workspace settings (use Sync instead)
 .idea/       # If any PyCharm ghosts remain
 *.swp
+
+# .gitignore
+*.pdf
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.fls
+*.fdb_latexmk
